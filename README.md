@@ -39,7 +39,7 @@ Commit Message 之格式，標準如下：
 標題， `header` 格式如下：
 
 ```
-<type>(<scope>) <subject>
+[<type>](<scope>) <subject>
 ```
 
 - **type**: 必要欄位。
